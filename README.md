@@ -4,13 +4,13 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorssobral&show_icons=true&count_private=true&hide_border=true&title_color=0489B1&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Igor Sobral github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorssobral&layout=compact&hide_border=true&title_color=0489B1&text_color=2DFAA4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorssobral&show_icons=true&count_private=true&hide_border=true&title_color=2DFAA4&icon_color=2DFAA4&text_color=c9d1d9&bg_color=0d1117" alt="Igor Sobral github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorssobral&layout=compact&hide_border=true&title_color=2DFAA4&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
 <p align="center" >
-  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,postgres,hibernate" /></a>
+  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sass,mysql,postgres,firebase,hibernate" /></a>
 </p>
 
 <div align="center"> 
@@ -22,7 +22,7 @@
 
 
 ### Studying in this moment:
-[![](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)
 
 
 
