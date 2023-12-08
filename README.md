@@ -21,8 +21,12 @@
  </div>
 
 
-### Studying in this moment:
-[![](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)
+<h3>
+   Studying in this moment:
+</h3>
+
+
+![](https://skillicons.dev/icons?i=react,ts)
 
 
 
