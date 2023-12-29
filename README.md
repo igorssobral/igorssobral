@@ -29,26 +29,23 @@
   <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sass,mysql,postgres,firebase,hibernate" /></a>
 </p>
 <br>
-<h3 align="center">
+
+<h3 align="center">  
    Studying in this moment:
+</h3> 
+
+<div align="center">
   
   ![](https://skillicons.dev/icons?i=react,ts)
-</h3>
-<br>
+  
+</div>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo 🤝 </h3>
 <div align="center"> 
 <a href="https://www.instagram.com/igor_silvaa0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:igorsobral.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/igorsobral-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 20px" target="_blank"></a> 
  </div>
-
-
-
-
-
-
-
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=644aff&height=120&section=footer"/>
