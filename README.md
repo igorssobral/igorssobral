@@ -23,13 +23,18 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igorssobral&show_icons=true&count_private=true&hide_border=true&title_color=644aff&icon_color=644aff&text_color=c9d1d9&bg_color=0d1117" alt="Igor Sobral github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorssobral&layout=compact&hide_border=true&title_color=644aff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
+<br>
 
 <p align="center" >
   <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sass,mysql,postgres,firebase,hibernate" /></a>
 </p>
-
-<br/>
+<br>
+<h3 align="center">
+   Studying in this moment:
+  
+  ![](https://skillicons.dev/icons?i=react,ts)
+</h3>
+<br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo 🤝 </h3>
 <div align="center"> 
 <a href="https://www.instagram.com/igor_silvaa0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -38,12 +43,10 @@
  </div>
 
 
-<h3>
-   Studying in this moment:
-</h3>
 
 
-![](https://skillicons.dev/icons?i=react,ts)
+
+
 
 
 
