@@ -25,6 +25,10 @@
 </div>
 <br>
 
+<h3 align="center">  
+   Skills
+</h3> 
+
 <p align="center" >
   <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sass,mysql,postgres,firebase,hibernate" /></a>
 </p>
