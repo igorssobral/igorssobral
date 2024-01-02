@@ -13,10 +13,8 @@
 - :man_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/igorsobral-dev/) [`Instagram`](https://www.instagram.com/igor_silvaa0/)
 - :email: Sinta-se à vontade para entrar em contato comigo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=IgorSobral&amp;color=EA4335&amp;style=flat-square)](mailto:igorsobral.dev@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
-
+- 
 <br>
-
-
 <br>
 
 <div align="center">  
@@ -45,6 +43,7 @@
 </div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecte-se comigo 🤝 </h3>
+
 <div align="center"> 
 <a href="https://www.instagram.com/igor_silvaa0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:igorsobral.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
