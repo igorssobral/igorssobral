@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 <br>
 - :man: Me Chamo `Igor Silva Sobral` e Tenho 25 Anos
-- :school: Estudante de `Análise e Desenvolvimento De Sistemas` no [Instituto Federal da Paraíba](https://www.ifpb.edu.br/monteiro)
+- :school: Estudante de `Análise e Desenvolvimento De Sistemas` no [`Instituto Federal da Paraíba`](https://www.ifpb.edu.br/monteiro)
 - :technologist: Atualmente me especializando em  `Frontend Development`
 - :man_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/igorsobral-dev/) [`Instagram`](https://www.instagram.com/igor_silvaa0/)
 - :email: Sinta-se à vontade para entrar em contato comigo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=IgorSobral&amp;color=EA4335&amp;style=flat-square)](mailto:igorsobral.dev@gmail.com)
