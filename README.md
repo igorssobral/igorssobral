@@ -18,12 +18,15 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorssobral&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=644aff&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="49%" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorssobral&show_icons=true&locale=en&layout=compact&line_height=20&title_color=644aff&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="41%" height="195px" alt="igorssobral"/>
-
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=igorssobral&theme=dark&hide_border=true" />
 </div>
 
 <br>
+<div align="center">
+     <img width="49%" height="260px" src="https://github-readme-stats.vercel.app/api?username=igorssobral&show_icons=true&count_private=true&hide_border=true&title_color=644aff&icon_color=644aff&text_color=fff&bg_color=0d1117" alt="Igor Silva Sobral github stats" /> 
+  <img width="41%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorssobral&layout=compact&hide_border=true&title_color=644aff&text_color=fff&bg_color=0d1117" />
+</div>
+</div>
 
 <h3 align="center">  
    Skills
