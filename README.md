@@ -35,7 +35,7 @@
 </h3> 
 
 <p align="center" >
-  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sass,mysql,postgres,firebase,hibernate,figma" /></a>
+  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sass,mysql,postgres,firebase,hibernate,git,figma" /></a>
 </p>
 <br>
 
