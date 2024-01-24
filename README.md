@@ -17,7 +17,6 @@
 - :nerd_face: Always believe `"You are what you loved"`
   
 <br>
-<br>
 
 <div align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=igorssobral&theme=dark&hide_border=true" />
