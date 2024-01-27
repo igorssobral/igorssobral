@@ -8,7 +8,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 <br>
-<br/>
+
 - :man: Me Chamo `Igor Silva Sobral` e Tenho 25 Anos
 - :school: Estudante de `Análise e Desenvolvimento De Sistemas` no [`Instituto Federal da Paraíba`](https://www.ifpb.edu.br/monteiro)
 - :technologist: Atualmente me especializando em  `Frontend Development`
