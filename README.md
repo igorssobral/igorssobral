@@ -17,11 +17,6 @@
 - :nerd_face: Always believe `"You are what you loved"`
   
 <br>
-
-<div align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=igorssobral&theme=dark&hide_border=true" />
-</div>
-
 <br>
 <div align="center">
      <img width="49%" height="260px" src="https://github-readme-stats.vercel.app/api?username=igorssobral&show_icons=true&count_private=true&hide_border=true&title_color=644aff&icon_color=644aff&text_color=fff&bg_color=0d1117" alt="Igor Silva Sobral github stats" /> 
