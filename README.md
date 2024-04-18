@@ -18,8 +18,8 @@
 
 <br>
 <div align="center">
-     <img width="45%" height="260px" src="https://github-readme-stats.vercel.app/api?username=igorssobral&show_icons=true&count_private=true&hide_border=true&title_color=644aff&icon_color=644aff&text_color=fff&bg_color=0d1117" alt="Igor Silva Sobral github stats" /> 
-  <img width="36%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorssobral&layout=compact&hide_border=true&title_color=644aff&text_color=fff&bg_color=0d1117" />
+     <img width="500px" height="260px" src="https://github-readme-stats.vercel.app/api?username=igorssobral&show_icons=true&count_private=true&hide_border=true&title_color=644aff&icon_color=644aff&text_color=fff&bg_color=0d1117" alt="Igor Silva Sobral github stats" /> 
+  <img width="500px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorssobral&layout=compact&hide_border=true&title_color=644aff&text_color=fff&bg_color=0d1117" />
 </div>
 </div>
 
