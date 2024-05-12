@@ -38,7 +38,7 @@
 
 <div align="center">
   
-  ![](https://skillicons.dev/icons?i=ts,tailwind)
+  ![](https://skillicons.dev/icons?i=ts,next,tailwind)
   
 </div>
 
