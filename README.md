@@ -15,7 +15,6 @@
 - :email: Sinta-se à vontade para entrar em contato comigo [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=IgorSobral&amp;color=EA4335&amp;style=flat-square)](mailto:igorsobral.dev@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
   
-
 <br>
 <div align="center">
      <img width="55%" height="260px" src="https://github-readme-stats.vercel.app/api?username=igorssobral&show_icons=true&count_private=true&hide_border=true&title_color=644aff&icon_color=644aff&text_color=fff&bg_color=0d1117" alt="Igor Silva Sobral github stats" /> 
@@ -49,6 +48,5 @@
 <a href = "mailto:igorsobral.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/igorsobral-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 20px" target="_blank"></a> 
  </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=644aff&height=120&section=footer"/>
