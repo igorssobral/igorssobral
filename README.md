@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=644aff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=644aff&height=80&section=header"/>
 
 <!--About Me-->
 
@@ -48,4 +48,4 @@
 <a href="https://www.linkedin.com/in/igorsobral-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 20px" target="_blank"></a> 
  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=644aff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=644aff&height=80&section=footer"/>
