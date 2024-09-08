@@ -7,7 +7,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 <br>
 
-- :man: Me Chamo `Igor Silva Sobral` e Tenho 25 Anos
+- :man: Me Chamo `Igor Silva Sobral` e Tenho 26 Anos
 - :school: Estudante de `Análise e Desenvolvimento De Sistemas` no [`Instituto Federal da Paraíba`](https://www.ifpb.edu.br/monteiro)
 - :technologist: Atualmente me especializando em  `FullStack Development`
 - :man_technologist: Me Siga nas Redes Sociais [`Linkedin`](https://www.linkedin.com/in/igorsobral-dev/) [`Instagram`](https://www.instagram.com/igor_silvaa0/)
