@@ -26,7 +26,7 @@
 </h3> 
 
 <p align="center" >
-  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sass,mysql,postgres,firebase,hibernate,git,figma,vscode" /></a>
+  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sass,tailwind,mysql,postgres,firebase,hibernate,git,figma,vscode" /></a>
 </p>
 <br>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
   
-  ![](https://skillicons.dev/icons?i=ts,next,tailwind,jest)
+  ![](https://skillicons.dev/icons?i=ts,next,jest)
   
 </div>
 
