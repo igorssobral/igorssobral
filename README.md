@@ -36,7 +36,7 @@
 
 <div align="center">
   
-  ![](https://skillicons.dev/icons?i=ts,next,jest)
+  ![](https://skillicons.dev/icons?i=ts,next,jest,docker)
   
 </div>
 
