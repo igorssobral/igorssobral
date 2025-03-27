@@ -25,8 +25,8 @@
    Skills
 </h3> 
 
-<p align="center" >
-  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,sass,tailwind,mysql,postgres,firebase,hibernate,git,figma,vscode" /></a>
+<p  align="center" >
+  <a href="https://skillicons.dev" ><img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,sass,tailwind,mysql,postgres,firebase,hibernate,git,figma,vscode" /></a>
 </p>
 <br>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
   
-  ![](https://skillicons.dev/icons?i=ts,next,jest,docker)
+  ![](https://skillicons.dev/icons?i=next,jest,docker)
   
 </div>
 
